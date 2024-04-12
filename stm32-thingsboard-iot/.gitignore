@@ -1,0 +1,41 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.mk
+*.list
+*.su
+
+# Linker output
+*.ilk
+*.exp
+*.map
+makefile
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# certificates
+*.pem
+*.crt
+*.key
+
+
+.vscode
+
